@@ -42,9 +42,9 @@ The project is divided into several classes, each focusing on a specific part of
 
 ### Key Classes:
 - **Start.java**: The entry point of the application, launching the splash screen and the login page.
-- **Login.java**: Handles the login page for Buyers, Sellers, and Admins.
-- **Buyer.java**: Manages the buyer dashboard where users can browse products, view the cart, track orders, and manage their accounts.
-- **Seller.java**: Manages the seller dashboard, allowing sellers to add/remove products, track orders, and view sales data.
+- **Login.java**: Handles the login and Registration page for Buyers, Sellers, and Admins.
+- **Buyer.java**: Manages the buyer dashboard where users can browse products, view the cart, track orders, and change their passwords.
+- **Seller.java**: Manages the seller dashboard, allowing sellers to add/remove products,update tracking status,view sales data, and change their passwords.
 - **Admin.java**: Manages the admin dashboard, allowing admins to manage accounts, products, and orders.
 - **AddOrder.java**: The seller's interface for adding new products to their store.
 - **Cart.java**: Manages the shopping cart for the buyer.
@@ -54,12 +54,11 @@ The project is divided into several classes, each focusing on a specific part of
 - **Checkout.java**: Handles the checkout process where buyers input their shipping and payment details.
 - **DeleteAccounts.java**: Admin interface for deleting user accounts.
 - **ManageSellerAccounts.java**: Admin interface for managing seller accounts.
-- **Orders.java**: Displays order history for both buyers and sellers.
+- **Orders.java**: Displays order history for buyers.
 - **Payment.java**: The payment interface for completing the transaction.
 - **SellerOverview.java**: Provides a sales overview for sellers (total sales, total orders, etc.).
 - **Track.java**: Allows users to track the status of their orders.
 - **SellerOrderReceived.java**: Interface for sellers to manage received orders.
-- **SellerOverview.java**: A detailed overview of the seller's sales and orders.
 
 ## How to Run the Project
 
@@ -70,7 +69,7 @@ The project is divided into several classes, each focusing on a specific part of
 ### Steps to Run the Project
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/tariqulislamrahat/fashionhub.git
+   [git clone https://github.com/tariqulislamrahat/fashionhub.git](https://github.com/tariqulislamrahat/java_project.git
    ```
 
 2. **Compile the Code**:
