@@ -1,0 +1,12 @@
+Product: a - BDT 2
+b - BDT 3
+
+Price: 5.00 BDT
+Name: a
+Address: a
+Email: a
+Phone: a
+Total Price: 55.0 BDT
+Payment Method: Bkash
+--------------------------------------
+
