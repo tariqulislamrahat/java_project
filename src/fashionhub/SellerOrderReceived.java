@@ -81,7 +81,7 @@ public class SellerOrderReceived extends JFrame {
         buttonPanel.setLayout(new GridLayout(1, 2, 10, 0));
         buttonPanel.setOpaque(false);
 
-        updateButton = createStyledButton("Update Status");
+        updateButton = createStyledButton("Update");
         updateButton.setBackground(new Color(40, 167, 69));
         buttonPanel.add(updateButton);
 
