@@ -75,7 +75,7 @@ The project is divided into several classes, each focusing on a specific part of
 2. **Compile the Code**:
    If using an IDE, open the project in your chosen IDE. If working from the command line, navigate to the project folder and run:
    ```bash
-   javac fashionhub/.java main/.java
+   javac fashionhub/*.java main/*.java
    ```
 
 3. **Run the Application**:
