@@ -10,7 +10,7 @@
 
 ### 1. **User Authentication**
    - **Login**: Buyers, Sellers, and Admins can log in with their credentials.
-   - **Sign Up**: New users (Buyers, Sellers) can create an account.
+   - **Sign Up**: New users (Buyers, Sellers,Admins) can create an account.
    - **Change Password**: Users (Buyers, Sellers, Admins) can change their passwords.
 
 ### 2. **Buyer Features**
@@ -30,9 +30,6 @@
    - **Order Management**: Admin can view and manage all orders across the platform.
    - **Seller Management**: Admin can approve or reject seller applications.
    - **Account Deletion**: Admin can delete accounts when necessary.
-
-### 5. **Splash Screen**
-   - A splash screen is displayed when the application starts, providing a smooth user experience during the initial load.
 
 ## Technologies Used
 - **Java**: Core programming language.
