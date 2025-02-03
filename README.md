@@ -98,6 +98,11 @@ The project is divided into several classes, each focusing on a specific part of
 
 Please ensure that your code follows Java conventions and is well-documented.
 
+## Credits
+- **MD. Iftakher Hossain** [@IftakherEmon](https://github.com/IftakherEmon)
+- **MD. Sakibul Islam Siam**
+- **Tariqul Islam** [@tariqulislamrahat](https://github.com/tariqulislamrahat)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
