@@ -1,7 +1,7 @@
 ![FashionHub Cover](cover.png)
 
 
-#Clothing E-Commerce Management System
+# Clothing E-Commerce Management System
 
 ## Overview
 **FashionHub** is a comprehensive clothing e-commerce platform built using Java. It allows buyers to browse and purchase products, sellers to manage their inventories, and admins to oversee the system. The platform follows Object-Oriented Programming (OOP) principles such as **encapsulation**, **inheritance**, and **abstraction** for scalability and maintainability. The graphical user interface (GUI) is built using **Java Swing**, ensuring a responsive and user-friendly experience.
