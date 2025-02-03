@@ -69,7 +69,7 @@ The project is divided into several classes, each focusing on a specific part of
 ### Steps to Run the Project
 1. **Clone the Repository**:
    ```bash
-   [git clone https://github.com/tariqulislamrahat/fashionhub.git](https://github.com/tariqulislamrahat/java_project.git]
+   [git clone https://github.com/tariqulislamrahat/java_project.git](https://github.com/tariqulislamrahat/java_project.git)
    ```
 
 2. **Compile the Code**:
