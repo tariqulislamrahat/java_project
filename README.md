@@ -85,11 +85,10 @@ The project is divided into several classes, each focusing on a specific part of
    ```
 
 ### GUI Overview
-- **Splash Screen**: Displays the application name for a few seconds when the application starts.
 - **Login Page**: The first screen where users log in with their credentials.
 - **Buyer Dashboard**: After login, buyers can browse products, manage their cart, view order history, and track their orders.
 - **Seller Dashboard**: After login, sellers can manage products, view sales data, and process orders.
-- **Admin Dashboard**: Admins can manage accounts, view orders, and control seller management.
+- **Admin Dashboard**: Admins can manage accounts, view products, and control seller management.
 
 ## How to Contribute
 1. **Fork the Repository**.
