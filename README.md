@@ -1,4 +1,4 @@
-![FashionHub Cover](cover.png)
+![FashionHub Cover](Cover.png)
 
 
 # Clothing E-Commerce Management System
